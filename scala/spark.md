@@ -70,7 +70,7 @@
     20/11/23 23:00:14 INFO DAGScheduler: Job 1 finished: count at SimpleApp.scala:9, took 0.042327 s
     Lines with a: 9, Lines with b: 5
     20/11/23 23:00:14 INFO SparkUI: Stopped Spark web UI at http://192.168.99.37:4040
-```
+    ```
 1. Дополнительно
 
 Изменить имя jar архива -> ```assemblyJarName in assembly := "baeldung-scala-sbt-assembly-fatjar-1.0.jar"```
