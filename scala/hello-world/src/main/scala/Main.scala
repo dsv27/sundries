@@ -10,7 +10,7 @@ object Main extends App {
 */
 
 trait HelloWord {
-  val helloWord = "Hello Word, with trait !"
+  val helloWord = "Hello Word, with trait !!!"
 }
 
 object Main extends App with HelloWord {
